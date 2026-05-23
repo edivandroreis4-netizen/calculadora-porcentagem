@@ -2,26 +2,26 @@
 
 Projeto desenvolvido em Portugol Studio para cálculo de porcentagem.
 
-## Objetivo
+# Objetivo
 
 Praticar lógica de programação e operações matemáticas utilizando Portugol Studio.
 
-## Funcionalidades
+# Funcionalidades
 
 - cálculo de porcentagem
 - desconto
 - acréscimo
 
-## Fórmula utilizada
+# Fórmula utilizada
 
 ```text
 (valor * porcentagem) / 100
 ```
 
-## Tecnologias
+# Tecnologias
 
 - Portugol Studio
 
-## Autor
+# Autor
 
 Edivandro Lima
