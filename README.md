@@ -12,13 +12,13 @@ Praticar lógica de programação e operações matemáticas utilizando Portugol
   . desconto
  . acréscimo
 
-## Fórmula utilizada
+# Fórmula utilizada
 
 ```text
 (valor * porcentagem) / 100
 ```
 
-##Tecnologias
+## Tecnologias
 
 - Portugol Studio
 
