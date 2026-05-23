@@ -1,10 +1,10 @@
-## Objetivo
-
-Praticar lógica de programação e operações matemáticas utilizando Portugol Studio.
-
 # Calculadora de Porcentagem
 
 Projeto desenvolvido em Portugol Studio para cálculo de porcentagem.
+
+## Objetivo
+
+Praticar lógica de programação e operações matemáticas utilizando Portugol Studio.
 
 ## Funcionalidades
 
@@ -14,7 +14,9 @@ Projeto desenvolvido em Portugol Studio para cálculo de porcentagem.
 
 ## Fórmula utilizada
 
+```text
 (valor * porcentagem) / 100
+```
 
 ## Tecnologias
 
