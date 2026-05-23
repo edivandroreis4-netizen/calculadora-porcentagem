@@ -6,11 +6,11 @@ Projeto desenvolvido em Portugol Studio para cálculo de porcentagem.
 
 Praticar lógica de programação e operações matemáticas utilizando Portugol Studio.
 
-# Funcionalidades
+ Funcionalidades
 
- cálculo de porcentagem
- desconto
- acréscimo
+ .cálculo de porcentagem
+ .desconto
+ .acréscimo
 
 # Fórmula utilizada
 
