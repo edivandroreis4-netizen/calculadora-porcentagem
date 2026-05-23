@@ -8,9 +8,9 @@ Praticar lógica de programação e operações matemáticas utilizando Portugol
 
 # Funcionalidades
 
- -cálculo de porcentagem
- -desconto
- -acréscimo
+ - cálculo de porcentagem
+ - desconto
+ - acréscimo
 
 # Fórmula utilizada
 
@@ -18,7 +18,7 @@ Praticar lógica de programação e operações matemáticas utilizando Portugol
 (valor * porcentagem) / 100
 ```
 
- Tecnologias
+# Tecnologias
 
 - Portugol Studio
 
