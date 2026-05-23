@@ -18,7 +18,7 @@ Praticar lógica de programação e operações matemáticas utilizando Portugol
 (valor * porcentagem) / 100
 ```
 
-### Tecnologias
+# Tecnologias
 
 - Portugol Studio
 
